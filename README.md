@@ -35,6 +35,8 @@ Model Accuracy:
 - Training Accuracy: 99.67%
 - Validation Accuracy: 99.43%
 - Test Accuracy: 99.582%
+
+- Top 100 Kaggle Digit Recognizer competition
 ### Sample Predictions:
 
 ![download](https://github.com/user-attachments/assets/9b2ada3c-1178-4865-898e-b6968fa88974)
